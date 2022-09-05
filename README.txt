@@ -1,8 +1,10 @@
 # print_a_shape
 
+Use the PrintShape.java file included
+
 Problem:
 
-Create a program in java that prints out the following shape:
+Create a program  in java that prints out the following shape:
 
 aaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaa aaaaaaaaaaa
